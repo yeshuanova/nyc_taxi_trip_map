@@ -2,4 +2,4 @@
 
 - 本篇文章連結 - [https://yeshuanova.github.io/blog/posts/implement-OSM-map-tiles/](https://yeshuanova.github.io/blog/posts/implement-OSM-map-tiles/)
 
-- 互動式地圖範例 - [https://rawgit.com/yeshuanova/nyc_taxi_trip_map/master/map.html](https://rawgit.com/yeshuanova/nyc_taxi_trip_map/master/map.html)
+- 互動式地圖範例 - [https://yeshuanova.github.io/nyc_taxi_trip_map](https://yeshuanova.github.io/nyc_taxi_trip_map)
