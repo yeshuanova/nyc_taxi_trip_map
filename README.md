@@ -1,6 +1,6 @@
 ## 使用 datashader 與 mercantile 建立 OpenStreetMap 圖磚系統
 
-- [ipython document](./generate_nyc_map_tiles_blog.ipynb)
+- [ipython](./generate_nyc_map_tiles_blog.ipynb)
 
 - [Blog 文章](https://yeshuanova.github.io/blog/posts/implement-OSM-map-tiles/)
 
