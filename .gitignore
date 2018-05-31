@@ -1,5 +1,7 @@
 *.csv
 .ipynb_checkpoints
 map/agg
+map/temp
 map-parallel/agg
 split/
+split-epsg3857
