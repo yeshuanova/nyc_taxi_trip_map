@@ -2,16 +2,16 @@
 
 ## Version 1
 
-- [ipython](./generate_nyc_map_tiles_blog.ipynb)
-
-- [Blog 文章](https://yeshuanova.github.io/blog/posts/implement-OSM-map-tiles/)
+- [ipython](generate_nyc_map_tiles_blog.ipynb)
+- [Blog 文章](https://yeshuanova.github.io/post/2018/04/implement-osm-map-tiles/)
 
 ## Version 2 (Parallel)
 
-- [ipython](./generate_nyc_map_tiles_parallel_blog.ipynb)
+- [ipython](generate_nyc_map_tiles_parallel_blog.ipynb)
+- [Blog 文章](https://yeshuanova.github.io/post/2018/05/implement-osm-map-tiles-parallel/)
 
 ## OpenStreetMap
 
-- [Map (Equalization Histogram)](https://yeshuanova.github.io/nyc_taxi_trip_map/map.html)
+- [Map (Equalization Histogram)](https://rawgit.com/yeshuanova/nyc_taxi_trip_map/master/map.html)
+- [Map (Log)](https://rawgit.com/yeshuanova/nyc_taxi_trip_map/master/map_log.html)
 
-- [Map (Log)](https://yeshuanova.github.io/nyc_taxi_trip_map/map_log.html)
